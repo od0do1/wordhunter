@@ -1,0 +1,10 @@
+{
+  "name": "WordHunter",
+  "description": "Finder words",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hi.html",
+    "default_icon": "logo.png"
+  }
+}
