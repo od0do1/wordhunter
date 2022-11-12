@@ -1,0 +1,2 @@
+# wordhunter
+extension to browser
